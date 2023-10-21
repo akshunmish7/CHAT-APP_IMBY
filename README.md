@@ -5,6 +5,12 @@
 **CHAT-APP WORKING VIDEO**: [Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)<br>
 
 ## Steps to Run the App on your Local System 
+
+**Setup Video is attached below** <br>
+
+[Setup Video Chat App Link](https://drive.google.com/file/d/1e5YZn-vSaJktihn9NLU7tW9NscaTh4oT/view?usp=sharing)
+
+
 First Open the Terminal on your local system and open a folder in the Code Editor of your Choice 
 Run the Following Commands to clone the git repository to your local system
 ```
@@ -38,16 +44,21 @@ npm run start
 
 This will make the React App run on [localhost:3000](http://localhost:3000/)<br>
 
-Setup Video is attached below
-[Setup Video Chat App Link](https://drive.google.com/file/d/1e5YZn-vSaJktihn9NLU7tW9NscaTh4oT/view?usp=sharing)
+<br>
+<br>
 
-<br>
-<br>
+**The Video Below Demonstrates the Sign In / Sign Up and Chat-App functionality** <br>
+
+[Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)
+
 ```diff
 - Note: If at any stage an error occurs Please close the error and refresh the page to continue with the testing process
 ```
+
+
 ## Steps to Test the Chat App
 ### If you Enter the Chat Already Signed in (Occurs when You have Already Logged in before In your Local System)
+
 Once the screen is opened in front of you Click on the exclamation Icon that comes next to localhost 3000 on the searchbar 
 Click on Cookies and siteData (then click on )---->>> Manage Cookies and site data ---->>> Delete the localhost allowed ---->>> Click on Done ---->>> Reload the Page
 
@@ -57,6 +68,7 @@ The sign in Page Appears Click on the `Sign Up` button in (Don't have an Account
 -> Enter the Full Name , Email Id and Password <br>
 -> Click the `Sign Up` Button after entering all the required fields <br>
 -> Once the `Sign Up` button is `clicked` , Click on the `Sign in` Button just below in (Already have an account?Sign In)<br>
+-> The fields of Email and password willl be auto filled then click on Sign-In and you will be taken into the Chat App<br>
 -> Now you are taken into the chat App with you yourself registered as a new User <br>
 -> Note: If You are on the other window make sure to refresh that window to see the newly registered user
 <br>
@@ -86,8 +98,5 @@ After Entering the Email and Password click on the `sign in` button you are take
 -> The Right Screen shows all the users registered on this Chat Application<br>
 -> To initiate the conversation with any one of them click on their name and start the conversation<br>
 <br>
-The Video Below Demonstrates the Sign In / Sign Up and Chat-App functionality<br>
-
-[Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)
 
 ### The Chat App can be tested by opening two windows one on chrome/or any other browser and one on Incognito window with two different users logged in each of the window and then starting the Chat between them <br>
