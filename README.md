@@ -41,8 +41,13 @@ Setup Video is attached below
 
 
 https://github.com/akshunmish7/CHAT-APP_IMBY/assets/95397400/531970ba-227c-431b-93b5-1933c19b35c8
-
+<br>
+<br>
+```diff
+- Note: If at any stage an error occurs Please close the error and refresh the page to continue with the testing process
+```
 ## Steps to Test the Chat App
+### If you Enter the Chat Already Signed in (Occurs when You have Already Logged in before In your Local System)
 Once the screen is opened in front of you Click on the exclamation Icon that comes next to localhost 3000 on the searchbar 
 Click on Cookies and siteData (then click on )---->>> Manage Cookies and site data ---->>> Delete the localhost allowed ---->>> Click on Done ---->>> Reload the Page
 
@@ -66,7 +71,7 @@ Sample (Already Registered) Email and Password to check Sign in
 1. email: abhay@chat.com
    password: 1234
 2. email: sarkar@chat.com
-   password: admin1234
+   password: 1234
 3. email: pratyaksh@chat.com
    password: 1234
 4. email: jp@chat.com
