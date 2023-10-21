@@ -88,5 +88,5 @@ After Entering the Email and Password click on the `sign in` button you are take
 <br>
 
 The Video Below Demonstrates the Sign In / Sign Up and Chat-App functionality<br>
-### The Chat App can be tested by opening two windows one on chrome/or any other browser and one on Incognito window<br>
+### The Chat App can be tested by opening two windows one on chrome/or any other browser and one on Incognito window with two different users logged in each of the window and then starting the Chat between them <br>
 [Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)
