@@ -1,4 +1,5 @@
 ## Name: Akshun Mishra<br> College: IIT BHU Varanasi <br> Profile Applied: SDE <br> Department: Chemical Engineering
+[Tech-Stack Chat-App.pdf](https://github.com/akshunmish7/CHAT-APP_IMBY/files/13060278/Tech-Stack.Chat-App.pdf)
 
 # CHAT-APP
 
