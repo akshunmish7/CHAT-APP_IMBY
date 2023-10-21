@@ -1,5 +1,8 @@
 ## Name: Akshun Mishra<br> College: IIT BHU Varanasi <br> Profile Applied: SDE <br> Department: Chemical Engineering
-[Tech-Stack Documentation.pdf](https://github.com/akshunmish7/CHAT-APP_IMBY/files/13060278/Tech-Stack.Chat-App.pdf)
+**TECH-STACK DOCUMENTATION** :[Tech-Stack Documentation.pdf](https://github.com/akshunmish7/CHAT-APP_IMBY/files/13060278/Tech-Stack.Chat-App.pdf) <br>
+**SYSTEM DESIGN DOCUMENTATION** :[System Design Documentation-Chat App.pdf](https://github.com/akshunmish7/CHAT-APP_IMBY/files/13060297/System.Design.Documentation-Chat.App.pdf)<br>
+**SETUP VIDEO**: [Setup Video Chat App Link](https://drive.google.com/file/d/1e5YZn-vSaJktihn9NLU7tW9NscaTh4oT/view?usp=sharing)<br>
+**CHAT-APP WORKING VIDEO**: [Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)<br>
 
 ## Steps to Run the App on your Local System 
 First Open the Terminal on your local system and open a folder in the Code Editor of your Choice 
@@ -36,10 +39,8 @@ npm run start
 This will make the React App run on [localhost:3000](http://localhost:3000/)<br>
 
 Setup Video is attached below
+[Setup Video Chat App Link](https://drive.google.com/file/d/1e5YZn-vSaJktihn9NLU7tW9NscaTh4oT/view?usp=sharing)
 
-
-
-https://github.com/akshunmish7/CHAT-APP_IMBY/assets/95397400/531970ba-227c-431b-93b5-1933c19b35c8
 <br>
 <br>
 ```diff
@@ -85,7 +86,8 @@ After Entering the Email and Password click on the `sign in` button you are take
 -> The Right Screen shows all the users registered on this Chat Application<br>
 -> To initiate the conversation with any one of them click on their name and start the conversation<br>
 <br>
-
 The Video Below Demonstrates the Sign In / Sign Up and Chat-App functionality<br>
-### The Chat App can be tested by opening two windows one on chrome/or any other browser and one on Incognito window with two different users logged in each of the window and then starting the Chat between them <br>
+
 [Chat App Features Video Link](https://drive.google.com/file/d/1J6w9sqFg3ErwWzAyEf9DbLLeHauYbvPj/view?usp=sharing)
+
+### The Chat App can be tested by opening two windows one on chrome/or any other browser and one on Incognito window with two different users logged in each of the window and then starting the Chat between them <br>
